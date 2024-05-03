@@ -1,5 +1,5 @@
 
-<h1 align="center"> DASHBOARD SERVICIO AL CLIENTE </h1>
+<h1 align="center"> DASHBOARD SEGUIMIENTO FACTURACIÓN </h1>
 <h2>Análisis Inteligencia Empresarial</h2>
 
 <h2>Descripción del dashboard</h2>
@@ -47,7 +47,7 @@ En resumen, el dashboard permite observar tendencias clave en la facturación y 
 
 <h2>Desarrolladores del proyecto</h2>
 
-|  [<img src="https://avatars.githubusercontent.com/u/125892411?v=4" width=115><br><sub>Esteban Ferraz</sub>](https://github.com/estebanferraz1) |
+[<img src="https://avatars.githubusercontent.com/u/125892411?v=4" width=115><br><sub>Esteban Ferraz</sub>](https://github.com/estebanferraz1)
 
 
 
@@ -59,7 +59,7 @@ Este proyecto está bajo la Licencia MIT - mira el archivo LICENSE.md para detal
 
 > [!CAUTION]
 > 
-> Utilizar con fines educativos :octocat:
+> Utilizar con fines educativos.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
