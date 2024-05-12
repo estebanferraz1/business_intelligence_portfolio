@@ -22,9 +22,9 @@ Una empresa minorista con base en Brasil que cuenta con 8 tiendas repartidas en 
 
 <h2>Modelo de datos</h2>
 El modelo de datos se construyó a partir de diversas fuentes, como informes de ventas, registros de facturación y comisiones, así como datos de ubicación de las tiendas. El esquema de estructura de datos incluye las siguientes tablas:
-- **Ventas**: contiene campos para el ID de venta, fecha de venta, producto, cantidad, tienda, y total de la factura.
-- **Tiendas**: incluye campos para el ID de tienda, nombre de la tienda, estado, y ciudad.
-- **Productos**: incluye campos para el ID de producto y el nombre del producto.
+-Ventas: contiene campos para el ID de venta, fecha de venta, producto, cantidad, tienda, y total de la factura.
+-Tiendas: incluye campos para el ID de tienda, nombre de la tienda, estado, y ciudad.
+-Productos: incluye campos para el ID de producto y el nombre del producto.
 
 <h2>Transformación de datos</h2>
 Los pasos de limpieza y transformación incluyen:
@@ -35,13 +35,13 @@ Los pasos de limpieza y transformación incluyen:
 
 <h2>Diseño Visual</h2>
 El diseño visual del dashboard se centró en proporcionar información clara y útil a los usuarios. Los siguientes componentes se implementaron para lograr este objetivo:
-- **Gráfico de columnas y cintas** para mostrar la facturación total por período de tiempo (mensual).
-- **Tarjeta** para mostrar la facturación total acumulada.
-- **Tarjeta** para el total de pedidos realizados.
-- **Tarjeta** para el total de comisiones generadas.
-- **Segmentación de datos** por productos para facilitar el análisis específico.
-- **Tabla** que muestra el total de facturación y el porcentaje de participación por tienda.
-- **Mapa de burbujas** para visualizar la facturación total por estado.
+-Gráfico de columnas y cintas para mostrar la facturación total por período de tiempo (mensual).
+-Tarjeta para mostrar la facturación total acumulada.
+-Tarjeta para el total de pedidos realizados.
+-Tarjeta para el total de comisiones generadas.
+-Segmentación de datos por productos para facilitar el análisis específico.
+-Tabla que muestra el total de facturación y el porcentaje de participación por tienda.
+-Mapa de burbujas para visualizar la facturación total por estado.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
