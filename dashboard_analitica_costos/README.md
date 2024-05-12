@@ -22,9 +22,9 @@ Una empresa busca analizar sus costos e ingresos entre 2017 y 2021 para identifi
 
 <h2>Modelo de datos</h2>
 El modelo de datos se basó en informes financieros de la empresa entre 2017 y 2021. El esquema de estructura de datos incluye las siguientes tablas:
-- **Ingresos**: contiene campos para el año, trimestre, mes, ingresos y otras variables asociadas.
-- **Costos**: contiene campos para el año, trimestre, mes, costos y categorías de gastos.
-- **Disponibilidad**: contiene campos para el año, trimestre, mes, y disponibilidad de recursos.
+-Ingresos: contiene campos para el año, trimestre, mes, ingresos y otras variables asociadas.
+-Costos: contiene campos para el año, trimestre, mes, costos y categorías de gastos.
+-Disponibilidad: contiene campos para el año, trimestre, mes, y disponibilidad de recursos.
 
 <h2>Transformación de datos</h2>
 Los pasos de limpieza y transformación incluyen:
@@ -35,16 +35,16 @@ Los pasos de limpieza y transformación incluyen:
 
 <h2>Diseño Visual</h2>
 El diseño visual del dashboard se enfocó en presentar información clara y concisa para una fácil interpretación. Los siguientes componentes visuales se implementaron para lograr este objetivo:
-- **Segmentación de datos** por trimestre para análisis temporal.
-- **Tarjeta** para mostrar el total de ingresos acumulados.
-- **Tarjeta** para mostrar el promedio de ingresos.
-- **Tarjeta** para la mediana de ingresos.
-- **Tarjeta** para el recuento de ingresos.
-- **Tarjeta** para el mínimo y máximo de ingresos.
-- **Tabla** para visualizar ingresos, costos y disponibilidad por mes.
-- **Gráfico circular** para mostrar la distribución de ingresos por categorías.
-- **Gráfico de columnas** para comparar ingresos y costos por trimestre.
-- **Gráfico de barras** para visualizar los costos por diferentes categorías.
+-Segmentación de datos por trimestre para análisis temporal.
+-Tarjeta para mostrar el total de ingresos acumulados.
+-Tarjeta para mostrar el promedio de ingresos.
+-Tarjeta para la mediana de ingresos.
+-Tarjeta para el recuento de ingresos.
+-Tarjeta para el mínimo y máximo de ingresos.
+-Tabla para visualizar ingresos, costos y disponibilidad por mes.
+-Gráfico circular para mostrar la distribución de ingresos por categorías.
+-Gráfico de columnas para comparar ingresos y costos por trimestre.
+-Gráfico de barras para visualizar los costos por diferentes categorías.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
