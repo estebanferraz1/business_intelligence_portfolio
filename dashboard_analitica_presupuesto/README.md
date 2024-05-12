@@ -2,6 +2,11 @@
 <h1 align="center"> DASHBOARD ANALÍTICA PRESUPUESTO</h1>
 <h2>Análisis Inteligencia Empresarial</h2>
 
+<div align="center">  
+
+![dashboard_analitica_presupuesto](https://github.com/estebanferraz1/portafolio_business_intelligence/assets/125892411/f217847b-0e6d-4c8d-9cfe-f18ba1b2dd74)
+</div> 
+
 <h2>Descripción del dashboard</h2>
 Una empresa con operaciones en varias regiones busca optimizar su presupuesto y controlar los costos, ingresos y gastos. El dashboard proporciona un análisis detallado del presupuesto de la empresa, permitiendo visualizar costos, ingresos, gastos y utilidades entre el año 2020 y 2022. El objetivo es ayudar a los gerentes y analistas financieros a tomar decisiones informadas sobre cómo asignar recursos y mejorar la rentabilidad.
 

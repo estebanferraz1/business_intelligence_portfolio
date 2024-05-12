@@ -2,6 +2,11 @@
 <h1 align="center"> DASHBOARD ANÁLISIS DE PERSONAL</h1>
 <h2>Análisis Inteligencia Empresarial</h2>
 
+<div align="center">  
+  
+![dashboard_analisis_personal](https://github.com/estebanferraz1/portafolio_business_intelligence/assets/125892411/cab8f3df-4547-4ecd-86d9-36ca95ac1de0)
+</div> 
+
 <h2>Descripción del dashboard</h2>
 Una empresa con operaciones Santiago de Chile busca analizar su personal, enfocándose en el proceso de contratación, desempeño y demografía de sus empleados. El dashboard ofrece un análisis detallado del personal contratado entre 2009 y 2019, permitiendo visualizar tendencias de contratación, distribución por departamento y desempeño, con el fin de mejorar las estrategias de gestión de recursos humanos.
 

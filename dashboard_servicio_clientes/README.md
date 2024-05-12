@@ -2,6 +2,11 @@
 <h1 align="center"> DASHBOARD SERVICIO AL CLIENTE </h1>
 <h2>Análisis Inteligencia Empresarial</h2>
 
+<div align="center">  
+
+![dashboard_servicio_clientes](https://github.com/estebanferraz1/portafolio_business_intelligence/assets/125892411/59f55da8-1b27-44ba-a572-96ff481dee93)
+</div> 
+
 <h2>Descripción del dashboard</h2>
 Una empresa multinacional con base en Colombia que presta servicios de call center, ha implementado una nueva metodología de reclutamiento, selección y capacitación de personal con el fin de mejorar el desempeño inicial de su staff de asistentes. En marzo del 2023 decide realizar un seguimiento durante 1 mes, de la atención a clientes realizada por un nuevo equipo de 7 asistentes que fueron incorporados en la compañía, con un período no superior a 6 meses.
 
