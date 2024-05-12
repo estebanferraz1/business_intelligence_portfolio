@@ -22,11 +22,11 @@ Una empresa con operaciones en varias regiones busca optimizar su presupuesto y 
 
 <h2>Modelo de datos</h2>
 El modelo de datos se basó en informes financieros internos y datos de presupuesto. El esquema de estructura de datos incluye las siguientes tablas:
-- **Productos**: contiene el campo producto.
-- **Costos**: campos fecha ingreso, producto, cantidades, costo unitario.
-- **Ingresos**: campos fecha venta, producto, cantidades, venta unitaria.
-- **Gastos**: campos fecha gasto, gasto, total.
-- **Presupuesto**: fecha presupuesto, categoría, valor.
+-Productos: contiene el campo producto.
+-Costos: campos fecha ingreso, producto, cantidades, costo unitario.
+-Ingresos: campos fecha venta, producto, cantidades, venta unitaria.
+-Gastos: campos fecha gasto, gasto, total.
+-Presupuesto: fecha presupuesto, categoría, valor.
 
 <h2>Transformación de datos</h2>
 Los pasos de limpieza y transformación incluyen:
@@ -37,13 +37,13 @@ Los pasos de limpieza y transformación incluyen:
 
 <h2>Diseño Visual</h2>
 El diseño visual del dashboard se centra en ofrecer una vista clara del presupuesto y los aspectos financieros más importantes. Se implementaron los siguientes componentes visuales:
-- **Segmentación de datos** por producto para análisis detallado.
-- **Tarjetas** para mostrar costos, ingresos, gastos y utilidad.
-- **Gráfico circular** para mostrar la distribución de costos, ingresos y gastos.
-- **KPI** para mostrar los ingresos y costos por mes.
-- **Gráfico de áreas** para visualizar el costo e ingreso por año y mes.
-- **Tabla** para mostrar productos, costos, ingresos y utilidades.
-- **Gráfico de áreas** para visualizar la utilidad, costo e ingreso por año y mes.
+-Segmentación de datos por producto para análisis detallado.
+-Tarjetas para mostrar costos, ingresos, gastos y utilidad.
+-Gráfico circular para mostrar la distribución de costos, ingresos y gastos.
+-KPI para mostrar los ingresos y costos por mes.
+-Gráfico de áreas para visualizar el costo e ingreso por año y mes.
+-Tabla para mostrar productos, costos, ingresos y utilidades.
+-Gráfico de áreas para visualizar la utilidad, costo e ingreso por año y mes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
