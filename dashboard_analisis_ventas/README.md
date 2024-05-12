@@ -22,11 +22,11 @@ La tienda de moda online busca analizar sus ventas entre 2019 y 2021 para identi
 
 <h2>Modelo de datos</h2>
 El modelo de datos se construyó a partir de registros internos de ventas y datos geográficos. El esquema de estructura de datos incluye las siguientes tablas:
-- **Ventas**: contiene campos marca, cantidad vendida, monto total, producto, ID de producto.
-- **Productos**: contiene campos para el ID de producto, nombre del producto, marca y condición del producto, SKU.
-- **Pedidos**: incluye campos fecha compra, ID de pedido, ID de producto, ID de vendedor.
-- **Vendedores**: campos para el ID de vendedor y nombre del vendedor.
-- **ListaCódigos**: ciudad, nombre ciudad.
+-Ventas: contiene campos marca, cantidad vendida, monto total, producto, ID de producto.
+-Productos: contiene campos para el ID de producto, nombre del producto, marca y condición del producto, SKU.
+-Pedidos: incluye campos fecha compra, ID de pedido, ID de producto, ID de vendedor.
+-Vendedores: campos para el ID de vendedor y nombre del vendedor.
+-ListaCódigos: ciudad, nombre ciudad.
 
 <h2>Transformación de datos</h2>
 Los pasos de limpieza y transformación incluyen:
@@ -36,17 +36,17 @@ Los pasos de limpieza y transformación incluyen:
 
 <h2>Diseño Visual</h2>
 El diseño visual del dashboard se centró en presentar información relevante sobre las ventas de manera clara y comprensible. Se implementaron los siguientes componentes visuales para alcanzar este objetivo:
-- **Segmentadores de datos** por año y mes para análisis temporal.
-- **Tarjeta** para mostrar los ingresos totales.
-- **Tarjeta** para mostrar los ingresos netos.
-- **Tarjeta** para mostrar la cantidad de pedidos.
-- **Tarjeta** para mostrar la cantidad de productos.
-- **Tarjeta** para mostrar la cantidad de marcas.
-- **Gráfico de líneas** para mostrar la tendencia del ingreso neto a lo largo del tiempo.
-- **Gráfico de embudo** para mostrar las marcas más vendidas.
-- **Gráfico de barras** para comparar la cantidad vendida e ingreso por producto.
-- **Gráfico de barras** para mostrar el ingreso por condición del producto.
-- **Gráfico de mapa** para visualizar el ingreso por ciudad.
+-Segmentadores de datos por año y mes para análisis temporal.
+-Tarjeta para mostrar los ingresos totales.
+-Tarjeta para mostrar los ingresos netos.
+-Tarjeta para mostrar la cantidad de pedidos.
+-Tarjeta para mostrar la cantidad de productos.
+-Tarjeta para mostrar la cantidad de marcas.
+-Gráfico de líneas para mostrar la tendencia del ingreso neto a lo largo del tiempo.
+-Gráfico de embudo para mostrar las marcas más vendidas.
+-Gráfico de barras para comparar la cantidad vendida e ingreso por producto.
+-Gráfico de barras para mostrar el ingreso por condición del producto.
+-Gráfico de mapa para visualizar el ingreso por ciudad.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
