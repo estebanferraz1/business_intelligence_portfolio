@@ -2,6 +2,11 @@
 <h1 align="center"> DASHBOARD ANÁLISIS DE VENTAS</h1>
 <h2>Análisis Inteligencia Empresarial</h2>
 
+<div align="center">  
+
+![alt text](dashboard_analisis_ventas-1.png)
+</div> 
+
 <h2>Descripción del dashboard</h2>
 La tienda de moda online busca analizar sus ventas entre 2019 y 2021 para identificar tendencias, evaluar el rendimiento y planificar estrategias para mejorar la rentabilidad. El dashboard ofrece un análisis detallado de las ventas, permitiendo visualizar ingresos, cantidad de pedidos, productos más vendidos y otras métricas clave, segmentadas por años y meses.
 
