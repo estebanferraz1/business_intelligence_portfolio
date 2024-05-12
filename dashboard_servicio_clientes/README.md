@@ -23,9 +23,9 @@ Una empresa multinacional con base en Colombia que presta servicios de call cent
 <h2>Modelo de datos</h2>
 (Descripción de las fuentes de datos, esquema de estructura de datos)
 Las fuentes de datos incluyen registros de llamadas del centro de atención al cliente, informes de capacitación del personal, y encuestas de satisfacción del cliente. El esquema de estructura de datos comprende las siguientes tablas:
-- **Llamadas**: con campos para ID de llamada, tiempo de espera, duración, y asistente responsable.
-- **Asistentes**: con detalles como nombre, área, y fecha.
-- **Satisfacción**: incluye ID de llamada, puntaje de satisfacción, y Duración de la llamada.
+-Llamadas: con campos para ID de llamada, tiempo de espera, duración, y asistente responsable.
+-Asistentes: con detalles como nombre, área, y fecha.
+-Satisfacción: incluye ID de llamada, puntaje de satisfacción, y Duración de la llamada.
 
 <h2>Transformación de datos</h2>
 (Pasos de limpieza, cálculos y medidas creadas)
@@ -36,14 +36,14 @@ Los pasos de limpieza y transformación incluyeron:
 
 <h2>Diseño Visual</h2>
 El dashboard se diseñó para mostrar información clave de manera visualmente atractiva y comprensible. Se implementaron los siguientes componentes visuales:
-- **Gráfico de barras** para visualizar el tiempo de atención por asistente.
-- **Gráfico de barras** para visualizar el recuento de llamadas por fecha.
-- **Gráfico de pastel** para ilustrar el estado de las atenciones.
-- **Gráfico de rectángulos** para ilustrar jerarquía del total de atenciones por área.  
-- **Tarjeta** Atenciones totales.
-- **Tarjeta** Tiempo de espera.
-- **Tarjeta** Satisfacción promedio.
-- **Segmentación** de datos por fecha.
+-Gráfico de barras para visualizar el tiempo de atención por asistente.
+-Gráfico de barras para visualizar el recuento de llamadas por fecha.
+-Gráfico de pastel para ilustrar el estado de las atenciones.
+-Gráfico de rectángulos para ilustrar jerarquía del total de atenciones por área.  
+-Tarjeta Atenciones totales.
+-Tarjeta Tiempo de espera.
+-Tarjeta Satisfacción promedio.
+-Segmentación de datos por fecha.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
