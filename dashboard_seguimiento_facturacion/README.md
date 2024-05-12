@@ -2,6 +2,11 @@
 <h1 align="center"> DASHBOARD SEGUIMIENTO FACTURACIÓN </h1>
 <h2>Análisis Inteligencia Empresarial</h2>
 
+<div align="center">  
+  
+![dashboard_seguimiento_facturacion](https://github.com/estebanferraz1/portafolio_business_intelligence/assets/125892411/995c9e8a-e4b4-4b83-81af-c4c2b5e06149)
+</div> 
+
 <h2>Descripción del dashboard</h2>
 Una empresa minorista con base en Brasil que cuenta con 8 tiendas repartidas en distintas regiones del país desea realizar un seguimiento de sus ventas y facturación desde enero de 2023 hasta diciembre de 2023. El seguimiento incluye el análisis de 8 productos principales: gorras, tenis, maletas, billeteras, bolsos, audífonos, mochilas y botellas. El objetivo es evaluar el rendimiento de las tiendas y de los productos para identificar oportunidades de mejora y optimización.
 
