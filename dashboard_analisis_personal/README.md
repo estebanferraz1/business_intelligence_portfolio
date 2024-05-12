@@ -22,9 +22,9 @@ Una empresa con operaciones Santiago de Chile busca analizar su personal, enfoc�
 
 <h2>Modelo de datos</h2>
 El modelo de datos se construyó a partir de registros internos de contratación y evaluaciones de desempeño. El esquema de estructura de datos incluye las siguientes tablas:
-- **Colaboradores**: contiene campos para ID de empleado, nombre, departamento, edad, fecha de contratación, y salario.
-- **Desempeño**: incluye campos para el ID de empleado, evaluación de desempeño, y año de evaluación.
-- **Contrataciones**: contiene campos para el año de contratación y cantidad de contrataciones.
+-Colaboradores: contiene campos para ID de empleado, nombre, departamento, edad, fecha de contratación, y salario.
+-Desempeño: incluye campos para el ID de empleado, evaluación de desempeño, y año de evaluación.
+-Contrataciones: contiene campos para el año de contratación y cantidad de contrataciones.
 
 <h2>Transformación de datos</h2>
 Los pasos de limpieza y transformación incluyen:
@@ -34,13 +34,13 @@ Los pasos de limpieza y transformación incluyen:
 
 <h2>Diseño Visual</h2>
 El diseño visual del dashboard se centró en presentar datos relevantes sobre el personal de manera clara y comprensible. Se implementaron los siguientes componentes visuales para alcanzar este objetivo:
-- **Segmentación de datos** por departamento para analizar la distribución del personal.
-- **Tarjeta** para mostrar el total de personal.
-- **Tarjeta** para mostrar el total de salarios.
-- **Tabla** para visualizar la cantidad de colaboradores por departamento.
-- **Gráfico de columnas** para mostrar el registro de desempeño.
-- **Gráfico de columnas** para visualizar las contrataciones por año.
-- **Gráfico de embudo** para ilustrar la distribución de rangos de edad en el personal.
+-Segmentación de datos por departamento para analizar la distribución del personal.
+-Tarjeta para mostrar el total de personal.
+-Tarjeta para mostrar el total de salarios.
+-Tabla para visualizar la cantidad de colaboradores por departamento.
+-Gráfico de columnas para mostrar el registro de desempeño.
+-Gráfico de columnas para visualizar las contrataciones por año.
+-Gráfico de embudo para ilustrar la distribución de rangos de edad en el personal.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
