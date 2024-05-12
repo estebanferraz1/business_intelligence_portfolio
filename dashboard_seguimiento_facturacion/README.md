@@ -47,8 +47,8 @@ En resumen, el dashboard permite observar tendencias clave en la facturación y 
 
 <h2>Desarrolladores del proyecto</h2>
 
-[<img src="https://avatars.githubusercontent.com/u/125892411?v=4" width=115><br><sub>Esteban Ferraz</sub>](https://github.com/estebanferraz1)
-
+|  [<img src="https://avatars.githubusercontent.com/u/125892411?v=4" width=115><br><sub>Esteban Ferraz</sub>](https://github.com/estebanferraz1) |
+| :---: | :---: | :---: |
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
