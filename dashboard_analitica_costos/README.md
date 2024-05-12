@@ -2,6 +2,11 @@
 <h1 align="center"> DASHBOARD ANALÍTICA DE COSTOS</h1>
 <h2>Análisis Inteligencia Empresarial</h2>
 
+<div align="center">  
+
+![dashboard_analitica_costos](https://github.com/estebanferraz1/portafolio_business_intelligence/assets/125892411/e077890c-80cd-41a1-a2a0-28b6c9e2d58c)
+</div> 
+
 <h2>Descripción del dashboard</h2>
 Una empresa busca analizar sus costos e ingresos entre 2017 y 2021 para identificar tendencias, evaluar la eficiencia y planificar estrategias para mejorar la rentabilidad. El dashboard proporciona información detallada sobre ingresos y costos, incluyendo métricas clave y segmentación por trimestres, permitiendo un análisis exhaustivo de la evolución financiera durante este periodo de tiempo.
 
