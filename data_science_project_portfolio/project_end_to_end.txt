@@ -1,0 +1,4 @@
+
+data cleaning
+modelo selection
+feature selection till the deployment of model in the enviroment AWS -> docker -> API
