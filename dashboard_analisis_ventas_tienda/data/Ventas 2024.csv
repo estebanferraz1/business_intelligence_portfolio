@@ -1,0 +1,42 @@
+﻿;Ventas 2024;;;;;
+;;;;;;
+Fecha;Código;Producto;Categoría;Cantidad;Total;Vendedor
+05/01/2024;PR006;Guantes                ;Accesorio;1;40;Laura
+06/01/2024;PR005;Gorra                  ;Accesorio;1;260;Laura
+07/01/2024;PR051;Pijama de seda         ;Vestuario;2;66;Ana
+12/01/2024;PR011;Suéter                 ;Vestuario;1;47;Luis
+13/01/2024;PR017;Pijama                 ;Vestuario;1;30;Laura
+17/01/2024;PR025;Collar                 ;Accesorio;1;300;Luis
+23/01/2024;PR039;Gafas de sol           ;Accesorio;1;146;Pedro
+26/01/2024;PR034;Mochila                ;Accesorio;2;180;Pedro
+28/01/2024;PR032;Chanclas               ;Calzado;2;500;Laura
+29/01/2024;PR013;Abrigo                 ;Vestuario;1;40;Laura
+30/01/2024;PR038;Bandolera              ;Accesorio;1;143;Rosa
+03/02/2024;PR022;Bikini                 ;Vestuario;1;300;Pedro
+05/02/2024;PR048;Vestido;Vestuario;2;580;Rosa
+18/02/2024;PR028;Botas                  ;Calzado;2;500;Rosa
+21/02/2024;PR013;Abrigo                 ;Vestuario;2;80;Rosa
+24/02/2024;PR046;Camiseta ;Vestuario;6;1739;Rosa
+25/02/2024;PR027;Reloj                  ;Accesorio;3;360;Laura
+26/02/2024;PR050;Blazer;Vestuario;2;66;Ana
+01/03/2024;PR029;Sandalias              ;Calzado;3;765;Rosa
+01/03/2024;PR038;Bandolera              ;Accesorio;1;143;Ana
+02/03/2024;PR009;Camiseta               ;Vestuario;4;372;Pedro
+03/03/2024;PR042;Poncho                 ;Accesorio;2;110;Ana
+04/03/2024;PR038;Bandolera              ;Accesorio;3;429;Laura
+09/03/2024;PR027;Reloj                  ;Accesorio;2;240;Laura
+14/03/2024;PR001;Pantalones             ;Vestuario;4;264;Rosa
+19/03/2024;PR049;Chaqueta acolchada     ;Vestuario;5;164;Luis
+21/03/2024;PR059;Pantalones de yoga     ;Vestuario;1;180;Laura
+25/03/2024;PR026;Pulsera                ;Accesorio;3;1050;Ana
+02/04/2024;PR044;Chaqueta de punto      ;Vestuario;1;72;Pedro
+04/04/2024;PR024;Corbata                ;Accesorio;4;1040;Ana
+08/04/2024;PR016;Medias                 ;Vestuario;3;78;Laura
+11/04/2024;PR004;Bufanda                ;Accesorio;2;290;Ana
+12/04/2024;PR006;Guantes                ;Accesorio;1;40;Laura
+13/04/2024;PR026;Pulsera                ;Accesorio;3;1050;Rosa
+13/04/2024;PR057;Sandalias de plataforma;Calzado;2;180;Ana
+15/04/2024;PR055;Zapatillas de deporte  ;Calzado;2;180;Rosa
+16/04/2024;PR002;Vaqueros               ;Vestuario;3;210;Ana
+17/04/2024;PR004;Bufanda                ;Accesorio;2;290;Luis
+17/04/2024;PR011;Suéter                 ;Vestuario;8;375;Ana
